@@ -1,0 +1,23 @@
+{ 
+    "Accounts": { 
+        "Users": [ 
+            { 
+                "jdoe": { 
+                    "givenName": "John", //Out on leave this month  
+                    "surname": "Doe", 
+                    "department": "Finance" 
+                }, 
+                "jdoe2": { 
+                    "givenName": "Jane", //Department head  
+                    "surname": "Doe", 
+                    "department": "Marketing" 
+                }, 
+                "asmith": { 
+                    "givenName": "Alice", /* Sits in the corner office */ 
+                    "surname": "Smith", 
+                    "department": "IT" 
+                } 
+            } 
+        ] 
+    } 
+} 
